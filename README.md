@@ -58,8 +58,3 @@ Flaw description comes from 3dbrew, written by MrNbaYoh: (https://www.3dbrew.org
 * Nedwill: Giving helpful advice about gadget debugging.
 * MrCheeze: [extdata_dump](https://github.com/MrCheeze/extdata_dump) homebrew application.
 * everyone once who has supported/assisted me :)
-
-## Video Demonstration:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YP6kmU9qW5k
-" target="_blank"><img src="http://img.youtube.com/vi/YP6kmU9qW5k/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
